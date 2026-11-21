@@ -12,3 +12,6 @@
 
 #### Goal: become a backend developer
 
+## Projects
+Hello World program in C, built while setting up my development environment.
+Planning a small student database project in Java.
